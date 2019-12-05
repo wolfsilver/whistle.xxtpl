@@ -1,5 +1,5 @@
 /**
- * 自适应json/jsonp
+ * Respond with json/jsonp according to the callback parameter
  */
 
 function getUrlParam (name, url) {

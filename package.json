@@ -1,7 +1,7 @@
 {
   "name": "whistle.xxtpl",
   "version": "1.0.0",
-  "description": "自适应callback返回json/jsonp",
+  "description": "Respond with json/jsonp according to the callback parameter",
   "scripts": {
     "lint": "eslint index.js",
     "lintfix": "eslint index.js --fix"
