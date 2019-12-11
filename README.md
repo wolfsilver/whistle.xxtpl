@@ -8,6 +8,18 @@
 pattern xxtpl://{res.json}
 ```
 
+`res.json`示例
+
+```json
+{
+    "data": {
+        "value": 123
+    },
+    "msg": "success",
+    "ret": 0
+}
+```
+
 > 其中，`pattern` 表示匹配请求url的表达式，可以为域名（如：`www.test.com xxtpl://{res.json}`）、路径，通配符、正则表达式等，具体参见：[whistle的匹配模式](http://wproxy.org/whistle/pattern.html)。
 
 ## 安装
