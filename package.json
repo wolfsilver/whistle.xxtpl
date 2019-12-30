@@ -15,6 +15,9 @@
     "type": "git",
     "url": "https://github.com/wolfsilver/whistle.xxtpl.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "engines": {
     "node": ">= 6"
   },
